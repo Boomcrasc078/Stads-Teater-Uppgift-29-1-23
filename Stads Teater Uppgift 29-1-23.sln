@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stads Teater Uppgift 29-1-23", "Stads Teater Uppgift 29-1-23\Stads Teater Uppgift 29-1-23.csproj", "{58A8E64A-2F70-41B7-B373-01385B082AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A8E64A-2F70-41B7-B373-01385B082AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A8E64A-2F70-41B7-B373-01385B082AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A8E64A-2F70-41B7-B373-01385B082AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A8E64A-2F70-41B7-B373-01385B082AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB4F7BF3-337D-46D9-8D51-3F3A0FB7B6DA}
+	EndGlobalSection
+EndGlobal
